@@ -14,7 +14,7 @@
 
 **FIDOConfigTool** 是一个适用于 Pico FIDO 安全密钥固件的配置工具，使用 Python 编写。
 
-刷入7.2的固件，仅在**ESP32 S3**测试过VID/PID、产品名称、LED亮度、出场重置的功能。
+刷入7.2的固件，仅在**ESP32 S3**测试过VID/PID、产品名称、LED亮度、出厂重置的功能。
 
 ![img.png](assets/img.png)
 
